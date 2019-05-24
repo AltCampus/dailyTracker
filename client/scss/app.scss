@@ -1,0 +1,42 @@
+
+
+.daily-list {
+  padding: 15px;
+  p {
+    padding: 5px;
+  }
+}
+
+.react-calendar-heatmap {
+  // rect {
+  //   width: 4px;
+  //   height: 4px;
+  // }
+  // text {
+  //   font-size: 3px;
+  // }
+  .react-calendar-heatmap-month-label,  .react-calendar-heatmap-weekday-label {
+    font-size: 6px;
+  }
+}
+
+.hero.is-link {
+  background-color: #20345d; 
+}
+
+.button.is-primary {
+  background: #30ba67;
+}
+
+form {
+  margin-top: 50px;
+  .button {
+    margin-top: 10px;
+    background: #30ba67;
+    color: white;
+    border: none;
+  }
+  label {
+    text-align: left;
+  }
+}
